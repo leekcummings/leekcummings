@@ -2,8 +2,8 @@
 
 <p align="left">- 👋 Name: Lee Cummings<br>
   - 🧍 Status: Simmons University Comp Sci Student with Minors in Data Science and Design<br>
-  - 🗨️ Pronouns: they/them
-  - Interests: Web Development and Design, Data Visualization, dumb personal projects</p>
+  - 🗨️ Pronouns: they/them<br>
+  - ❓ Interests: Web Development and Design, Data Visualization, dumb personal projects</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
 </div>
 
-<h3 align="center">Current Projects</h3>
+<h2 align="center">Current Projects</h2>
 
 <p align="left">- 🎓 Graduating in May 2026<br>
   - 🦈 Simmons Scheduling Hub for sharing and comparing student courses<br>
