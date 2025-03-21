@@ -10,6 +10,10 @@ I'm a Computer Science student at Simmons University, graduating in 2026. I'm in
 
 </div>
 
+### [Simmons Finals Scheduling Application](https://github.com/leekcummings/finals-scheduler)
+
+I've completed the challenege posed by the Simmons CS departmment to produce a final schedule for all Simmons students with no student conflicts. There are definitely changes I would love to make to the program, but I would need more information about the process behind scheduling finals that I don't currently have access to. I had fun learning how to use sets in Python.
+
 ### [Prime Calculator](https://github.com/leekcummings/prime-calculator)
 
 Run this Python code to generate a bunch of primes quickly. On my laptop I could get primes up to 10,000,000 calculated in under 30 seconds by utilizing a hash table.
