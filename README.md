@@ -10,6 +10,10 @@ I'm a Computer Science student at Simmons University, graduating in 2026. I'm in
 
 </div>
 
+### [Kitty Companion](https://github.com/leekcummings/kitty-companion)
+
+This project was completed during the 24 hour, Simmons University SharkHack. We designed a desktop kitten, that walks around the screen, and interacts with the user by reminding them to take care of themself. In 24 hours, we made a lot of progress, but obviously there's plenty more to be done with the project. Thank you to the SharkHack judges for awarding our team The Humanity-Driven Innovation Award for Kitty Companion.
+
 ### [Simmons Finals Scheduling Application](https://github.com/leekcummings/finals-scheduler)
 
 I've completed the challenege posed by the Simmons CS departmment to produce a final schedule for all Simmons students with no student conflicts. There are definitely changes I would love to make to the program, but I would need more information about the process behind scheduling finals that I don't currently have access to. I had fun learning how to use sets in Python.
